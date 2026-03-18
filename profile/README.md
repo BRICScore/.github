@@ -1,0 +1,1 @@
+# BRICScore - a student project
